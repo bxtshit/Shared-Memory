@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(27,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(31,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(31,9): warning C4477:         with
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(31,9): warning C4477:         [
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(31,9): warning C4477:             T=uintptr_t
+C:\Users\ghtys\Desktop\shared_memory\user_mode\main.cpp(31,9): warning C4477:         ]
+  Generating code
+  2 of 23 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  user_mode.vcxproj -> C:\Users\ghtys\Desktop\shared_memory\x64\Release\user_mode.exe

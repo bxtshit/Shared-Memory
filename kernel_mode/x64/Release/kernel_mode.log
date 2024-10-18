@@ -1,0 +1,11 @@
+﻿  Building 'kernel_mode' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  receiver.cpp
+  functions.cpp
+  b_function.cpp
+  m_function.cpp
+  entry.cpp
+  receiver.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  kernel_mode.vcxproj -> C:\Users\ghtys\Desktop\shared_memory\x64\Release\kernel_mode.sys
+  Driver is 'Universal'.

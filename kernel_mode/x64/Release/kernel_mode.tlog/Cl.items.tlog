@@ -1,0 +1,5 @@
+C:\Users\ghtys\Desktop\shared_memory\kernel_mode\core\data\receiver.cpp;C:\Users\ghtys\Desktop\shared_memory\kernel_mode\x64\Release\receiver.obj
+C:\Users\ghtys\Desktop\shared_memory\kernel_mode\core\data\shared_memory\functions.cpp;C:\Users\ghtys\Desktop\shared_memory\kernel_mode\x64\Release\functions.obj
+C:\Users\ghtys\Desktop\shared_memory\kernel_mode\core\features\base\b_function.cpp;C:\Users\ghtys\Desktop\shared_memory\kernel_mode\x64\Release\b_function.obj
+C:\Users\ghtys\Desktop\shared_memory\kernel_mode\core\features\memory\m_function.cpp;C:\Users\ghtys\Desktop\shared_memory\kernel_mode\x64\Release\m_function.obj
+C:\Users\ghtys\Desktop\shared_memory\kernel_mode\entry.cpp;C:\Users\ghtys\Desktop\shared_memory\kernel_mode\x64\Release\entry.obj
